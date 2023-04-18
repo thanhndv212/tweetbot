@@ -54,7 +54,7 @@ def bot_post(msgs):
             # reset
             sent_msg = toSend_msg
             #manual timer
-            time.sleep(600 + 5*random.random())
+            time.sleep(time_out + random_addTime*random.random())
         else:
             # remove disqualified tweets
             msgs.remove(toSend_msg)
@@ -96,7 +96,8 @@ def bot_post_test(msgs):
             print("not a tweet link!")
     del_file.close()
 
-
+time_out = 600 # seconds
+random_addTime = 10 # seconds
 real_run = True
 if real_run:
     # real run
