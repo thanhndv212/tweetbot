@@ -97,7 +97,7 @@ def bot_post_test(msgs):
     del_file.close()
 
 time_out = 600 # seconds
-random_addTime = 10 # seconds
+random_addTime = 3 # seconds
 real_run = True
 if real_run:
     # real run

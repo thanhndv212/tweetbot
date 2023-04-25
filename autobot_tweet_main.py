@@ -4,10 +4,10 @@ import random
 
 # setup API main acc
 
-api_key = "4Li07Q0kTaedSyVaPZhtalt2B"
-api_key_secret = "Y9FQ2LJsS56wc5VOoISkvtZ8RHaAGk9jDnn9i1OGzJMRkMfVoI"
-access_token = "2414606610-1ajuCPMTaD19OWTiXh1qdhqPfoVgCA4pHDMOiTv"
-access_token_secret = "spbSmYHmiZLLCJydlrkUhErkZMBqYVqrpPEzRaYRfdaFa"
+api_key = "PJfF0Adam3RuXr6PuGIFD0zpl"
+api_key_secret = "xObe3tUAH1ZZrW6EINdDIexBhPuJAZj2asQCpw7CQXRyrDjcYn"
+access_token = "2414606610-jhEfIj2lKBj51jYGvSi07HYCovtTmZp8gJwnLwn"
+access_token_secret = "SeqHK1tXaKHnVDLD3RQ2otSe8Uz3rJwywFADb6vf9aIlg"
 bearer_token = "AAAAAAAAAAAAAAAAAAAAANW4mgEAAAAAPk%2BNVeQctlDXbt3jogjx2rNj1X8%3Do1yqQ1yMdwx4q46pZ5cFVwDOxF4BmJTjufIcKkmjWp5V7l6pmE"
 client_id = "MGdCbTBzaTJlMVpDOGN4TDJPV2Y6MTpjaQ"
 client_scrt = "VM7QKrhaCKxJFjb3e28qTTd0i_Pqoz77Ot6pxqhqXNyIE5XONS"
